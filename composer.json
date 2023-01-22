@@ -1,5 +1,5 @@
 {
-  "name": "MOstafaMOhamedX/laravel-crud",
+  "name": "mostafa-mohamed/laravel-crud",
   "description": "Laravel CRUD generator: Generate CRUD for any db table with the crud:generate command.",
   "keywords": [
     "artisan",
